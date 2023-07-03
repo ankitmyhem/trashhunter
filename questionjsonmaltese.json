@@ -1,0 +1,284 @@
+{
+    "Questions": [
+        {
+            "ID": "1",
+            "Question": "Kemm inġabar skart fit-tindif tal-bajjiet u ibħra Maltin waqt Saving Our Blue fl-2021?",
+            "Option1": "3.7-il tunnellata",
+            "Option2": "10.3-il tunellata",
+            "Option3": "14.9-il tunnellata ",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "2",
+            "Question": "Liema minn dawn l-oġġetti ssib il-plastik fihom?",
+            "Option1": "Loqom tas-sigaretti ",
+            "Option2": "Basket tal-qoton",
+            "Option3": "Bsaten tal-qoton ",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "3",
+            "Question": "X’inhu l-islogan tal-kampanja Saving Our Blue?",
+            "Option1": "Kun parti mill-prevenzjoni mhux mit-tniġġis!",
+            "Option2": "Għid le għall-oġġetti magħmulin mill-plastik li jintuża darba biss!",
+            "Option3": "Kun parti mis-soluzzjoni u mhux mill-problema!",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "4",
+            "Question": "X’inhuma Żoni Protetti Marittimi? ",
+            "Option1": "Żoni magħżula biex jipproteġu l-bijodiversità tal-baħar",
+            "Option2": "Żoni magħżula biex jipproteġu l-portijiet ",
+            "Option3": "Żoni magħżula għall-marinas tal-jottijiet",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "5",
+            "Question": "Huwa permess li tistad f’Żoni Protetti Marittimi? ",
+            "Option1": "Iva, huwa permess",
+            "Option2": "Le mhux permess.",
+            "Option3": "Iva, imma b’mod sostenibbli.",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "6",
+            "Question": "Liem hi l-awtorita’ kompetenti għal Żoni Protetti Marittimi? ",
+            "Option1": "L-Awtorità tal-Ambjent u Riżorsi",
+            "Option2": "L-Awtorità f’Malta għat-Turiżmu",
+            "Option3": "Infrastruttura Malta",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "7",
+            "Question": "X’jagħmel liż-Żoni Protetti Marittimi ta’ suċċess? ",
+            "Option1": "Infurzar xieraq",
+            "Option2": "Ma tinkludix lill-pubbliku",
+            "Option3": "Tippermetti li jseħħ sajd illegali",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "8",
+            "Question": "Kemm hemm Żoni Protetti ta’ taħt il-Baħar madwar il-gżejjer Maltin?",
+            "Option1": "26",
+            "Option2": "20",
+            "Option3": "18",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "9",
+            "Question": "X’inhu d-daqs taż- Żoni Protetti Marittimi tagħna?",
+            "Option1": "400 km kwadru ",
+            "Option2": "4100 Km kwadru",
+            "Option3": "10,000 Km  kwadru ",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "10",
+            "Question": "Liema speċi ma tistax tkun preżenti ġewwa ż-Żoni Protetti Marittimi tagħna? ",
+            "Option1": "Alka",
+            "Option2": "Ljun il-baħar",
+            "Option3": "Denfil ta’ geddumu qasir",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "11",
+            "Question": "Plastik li jintuża darba biss...",
+            "Option1": "M’għandux impatt fuq l-ambjent tal-art ",
+            "Option2": "Għandu impatt minimu fuq l-ambjent kostali",
+            "Option3": "Ikollu impatt kbir fuq l-ambjent marittimu",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "12",
+            "Question": "Liema minn dawn huwa ikkunsidrat bħala plastik li jintuża darba biss?",
+            "Option1": "Straw tal-metall",
+            "Option2": "Straw tal-plastik",
+            "Option3": "Straw tal-bamboo",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "13",
+            "Question": "Liema minn dawn hija ikkunsidrata bħala alternattiva għall-basket tal-plastik li jintuża darba biss?",
+            "Option1": "Basket tal-qoton",
+            "Option2": "Basket irqiq tal-plastik",
+            "Option3": "Basket tal-plastik mingħajr manku",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "14",
+            "Question": "Wieħed mill-aktar oġġetti ta’ plastik li jintuża darba biss u li jintrema fuq il-bajjiet madwar id-dinja hu...",
+            "Option1": "Pożati tal-plastik",
+            "Option2": "Loqom tas-sigaretti",
+            "Option3": "Bsaten tal-qoton",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "15",
+            "Question": "Jekk il-konsum attwali tal-plastik ma jinbidilx, sas-sena 2050 se jkun hemm iktar plastik fil-baħar milli jkun hemm",
+            "Option1": "Dgħajjes",
+            "Option2": "Ħut",
+            "Option3": "Għaddasa",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "16",
+            "Question": "Skart tal-plastik ekwivalenti għal daqs ta’ trakk tal-iskart huwa mormi fil-baħar kull",
+            "Option1": "Siegħa",
+            "Option2": "Ġurnata",
+            "Option3": "Minuta",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "17",
+            "Question": "Kemm-il miljun tunellata ta’ plastik tispiċċa fl-oċeani ta’ madwar id-dinja kull sena?",
+            "Option1": "8",
+            "Option2": "4",
+            "Option3": "2",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "18",
+            "Question": "Huwa stmat li ______ mammiferi marittimi jitilfu ħajjithom kull sena minħabba t-tniġġis tal-plastik",
+            "Option1": "Għaxar t'elf",
+            "Option2": "Ħamsin elf",
+            "Option3": "Mitt elf",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "19",
+            "Question": "Il-projbizzjoni ta’ Tqassim u Bejgħ ta’ ċerti oġġetti tal-Plastik li Jintuża Darba Biss f’Malta ġiet introdotta fis-sena",
+            "Option1": "2022",
+            "Option2": "2021",
+            "Option3": "2019",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "20",
+            "Question": "_______ huma fost dawk l-oġġetti li ġew inklużi fil-Projbizzjoni tat-Tqassim u Bejgħ tal-Plastik li Jintuża Darba Biss",
+            "Option1": "Għamara tal-plastik",
+            "Option2": "Ġugarelli tal-plastik",
+            "Option3": "Platti tal-plastik",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "21",
+            "Question": "Liema minn dawn l-oġġetti huma projbiti fil-liġi tat-Tqassim u l-Bejgħ tal-Plastik li Jintuża Darba Biss?",
+            "Option1": "Plastik li tiksi l-ikel bih",
+            "Option2": "Tazzi tal-polystyrene",
+            "Option3": "Sinjali tat-traffiku tal-plastik",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "22",
+            "Question": "Liema minn dawn t`hawn taħt huma projbiti fil-liġi tat-Tqassim u l-Bejgħ tal-Plastik li Jintuża Darba Biss?",
+            "Option1": "Boroż tal-iskart",
+            "Option2": "Cotton buds tal-plastik",
+            "Option3": "Chewing gum",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "23",
+            "Question": "Liema minn dawn t`hawn taħt huma projbiti bil-liġi tat-Tqassim u l-Bejgħ tal-Plastik li Jintuża Darba Biss?",
+            "Option1": "Kontenituri tal-ikel magħmula mill-polystyrene",
+            "Option2": "Kontenituri tal-kartun bl-għatu tal-plastik",
+            "Option3": "Kontenituri tal-plastik li jistgħu jerġġħu jiġu użati",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "24",
+            "Question": "F’Malta, il-projbizzjoni fuq l-importazzjoni ta’ ċertu plastiks li jiġu użati darba biss daħlet fis-seħħ ...",
+            "Option1": "Fl-1 ta’ Jannar 2021",
+            "Option2": "Fl-1 ta’ Frar 2021",
+            "Option3": "Fl-1 ta’ Marzu 2021",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "25",
+            "Question": "_______________ huma fost dawk l-oġġetti inklużi fil-Projbizzjoni tal-Importazzjoni u Tqassim tal-Plastik li Jintuża Darba Biss",
+            "Option1": "Labar tax-xagħar tal-plastik",
+            "Option2": "Stikek tal-ħelu tal-plastik",
+            "Option3": "Stikek tal-bżieżaq tal-plastik",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "26",
+            "Question": "Kannamieli għall-kontenituri tal-ikel  huma _________________  għall-polystyrene",
+            "Option1": "Alternattiva sostenibbli",
+            "Option2": "Alternattiva mhux sostenibbli",
+            "Option3": "Mhux alternattiva",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "27",
+            "Question": "Pożati tal-plastik _______________ lill-ambjent",
+            "Option1": "ma jaffettwawx",
+            "Option2": "ftit li xejn iħallu impatt",
+            "Option3": "jagħmlu ħsara",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "28",
+            "Question": "Liema perjodu tkopri l-Istrateġija tal-Plastik li jintuża darba biss magħrufa bħala ‘Rethink Plastic’?",
+            "Option1": "2021-2030",
+            "Option2": "2021-2025",
+            "Option3": "2021-2050",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "29",
+            "Question": "Kemm-il miżura għandha l-Istrateġija tal-Plastik li jintuża darba biss magħrufa bħala ‘Rethink Plastic’?",
+            "Option1": "10",
+            "Option2": "24",
+            "Option3": "80",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "30",
+            "Question": "L-għan tal-Istrateġija tal-Plastik li jintuża darba biss f’Malta magħrufa bħala ‘Rethink Plastic’ huwa li ______________                .",
+            "Option1": "Tirreklama għajxien aktar komdu",
+            "Option2": "Tnaqqas il-konsum tal-użu tal-plastik li jintuża darba biss",
+            "Option3": "Tħeġġeġ il-bejgħ ta’ prodotti lokali",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "31",
+            "Question": "Liema minn dawn huma speċi protetti tal-baħar?",
+            "Option1": "Il-Frajjel (White Spotted Octopus)",
+            "Option2": "Fekruna tal-baħar",
+            "Option3": "Lampuka ",
+            "RightAnswer": "2"
+        },
+        {
+            "ID": "32",
+            "Question": "Liema minn dawn għandhom l-qoxra ta’ barra bix-xewk?",
+            "Option1": "Rizzi",
+            "Option2": "Bram",
+            "Option3": "It-tnejn li huma",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "33",
+            "Question": "Liema speċi jinsabu fl-ibħra Maltin?",
+            "Option1": "Denfil geddumu qasir",
+            "Option2": "Fekruna tal-baħar",
+            "Option3": "Dawn t’hawn fuq kollha",
+            "RightAnswer": "3"
+        },
+        {
+            "ID": "34",
+            "Question": "X’jissejjaħ grupp ta’ dniefel?",
+            "Option1": "Ġlejjeb",
+            "Option2": "Mifrex",
+            "Option3": "Skola",
+            "RightAnswer": "1"
+        },
+        {
+            "ID": "35",
+            "Question": "Huwa stmat li fil-Mediterran l-akbar kolonja  tal-Kanġu ta’ Filfla (speċi protett ta’ għasfur) tinsab ġewwa",
+            "Option1": "Sqallija",
+            "Option2": "Il-Gżejjer Baleariċi fi Spanja",
+            "Option3": "Filfla ġewwa Malta",
+            "RightAnswer": "3"
+        }
+    ]
+}
