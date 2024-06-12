@@ -1,0 +1,196 @@
+{
+    "Trivia":[
+        {
+            "ID":"1",
+            "text":"Did you know? Since the Saving Our Blue campaign started, approximatley 16 tonnes tonnes of waste was collected from the sea and shorelines through beach, land, and dive cleanups."
+            
+        },
+        {
+            "ID": "2",
+            "text": "Did you know that cigarettes contain plastic?"
+            
+        },
+        {
+            "ID": "3",
+            "text": "Did you know? The slogan for Saving Our Blue is “Be part of the SOLUTION, not the POLLUTION!”"
+            
+        },
+        {
+            "ID": "4",
+            "text": "Did you know that Marine Protected Areas protect marine biodiversity?"
+            
+        },
+        {
+            "ID": "5",
+            "text": "Did you know? Fishing is allowed only in a sustainable manner within Marine Protected Areas."
+            
+        },
+        {
+            "ID": "6",
+            "text": "Interesting fact! The main threats to Marine Protected Areas are environmental pollution, trawling, and habitat degradation caused by humans."
+            
+        },
+        {
+            "ID": "7",
+            "text": "Did you know? The Environment and Resources Authority is the leading authority on Marine Protected Areas."
+            
+        },
+        {
+            "ID": "8",
+            "text": "Did you know? Using less single-use plastics makes a successful Marine Protected Area."
+            
+        },
+        {
+            "ID": "9",
+            "text": "Interesting fact! Marine sanctuaries require strict protection, with limited human activity, to ensure the preservation of marine ecosystems."
+            
+        },
+        {
+            "ID": "10",
+            "text": "Interesting fact! By the end of 2023, there were 18 different Marine Protected Areas around the Maltese Islands."
+            
+        },
+        {
+            "ID": "11",
+            "text": "Did you know? Marine Protected Areas in the Maltese Islands are 4,100 km squared in size."
+            
+        },
+        {
+            "ID": "12",
+            "text": "Interesting fact! Plastic litter found in the sea can harm fish and birds, as plastic stays in their stomachs, making it difficult for fish to digest food."
+            
+        },
+        {
+            "ID": "13",
+            "text": "Did you know? Ghost nets are abandoned fishing nets that can trap fish and turtles, posing a serious threat to these creatures."
+        },
+        {
+            "ID": "14",
+            "text": "You can help to preserve Marine Protected Areas by responsibly separating and disposing of waste."
+        },
+        {
+            "ID": "15",
+            "text": "Did you know? The term single-use plastics refers to any plastics designed for one-time use, typically intended to be discarded or recycled after a single use."
+        },
+        {
+            "ID": "16",
+            "text": "The littering of single-use plastics have a heavy impact on Marine Protected Areas."
+          
+        },
+        {
+            "ID": "17",
+            "text": "Did you know? Malta banned the selling  and distribution of plastic straws in 2022"
+           
+        },
+        {
+            "ID": "18",
+            "text": "Interesting fact! A textile bag is a better alternative to plastic shopping bags."
+            
+        },
+        {
+            "ID": "19",
+            "text": "Did you know? Cigarette butts are the most common littered item found on beaches."
+            
+        },
+        {
+            "ID": "20",
+            "text": "Did you know? If we don't change our plastic consumption habits, it's projected that by 2050, there will be more plastic in the oceans than fish."
+            
+        },
+        {
+            "ID": "21",
+            "text": "Did you know? The equivalent of a garbage truck's worth of plastic waste is dumped into the ocean every minute."
+           
+        },
+        {
+            "ID": "22",
+            "text": "Interesting fact! Approximately, 8 million tonnes of plastic end up in the world's oceans every year."
+            
+        },
+        {
+            "ID": "23",
+            "text": "Did you know? In 2022, a ban was introduced on the distribution and sale of certain single-use plastic items in Malta."
+            
+        },
+        {
+            "ID": "24",
+            "text": "Did you know? Single-use plastic plates are among the items included in the single-use plastic distribution and sale ban list of prohibited single-use plastics."
+            
+        },
+        {
+            "ID": "25",
+            "text": "Did you know? Polystyrene cups are among the items that were prohibited."
+            
+        },
+        {
+            "ID": "26",
+            "text": "Did you know? Plastic cotton buds are among the items that were prohibited in the Maltese Islands."
+            
+        },
+        {
+            "ID": "27",
+            "text": "Did you know? Takeaway food containers made of polystyrene are banned in the Maltese Islands."
+            
+        },
+        {
+            "ID": "28",
+            "text": "Did you know? Bamboo straws are more sustainable because they can be used over and over again."
+            
+        },
+        {
+            "ID": "29",
+            "text": "Did you know? Malta has a Strategy intentioned to bring about a behavioural shift within society in terms of its attitude toward single-use plastics."
+            
+        },
+        {
+            "ID": "30",
+            "text": "Did you know? Single-use plastic cutlery is harmful to the environment?"
+            
+        },
+        {
+            "ID": "31",
+            "text": "Did you know? Malta's Single-Use Plastics Strategy, 'Rethink Plastic,' covers the period from 2021 to 2030."
+            
+        },
+        {
+            "ID": "32",
+            "text": "Interesting fact! Malta's Single-Use Plastics Strategy 'Rethink Plastic' contains a number of measures that aim at reducing the consumption of certain single‑use plastic products."
+            
+        },
+        {
+            "ID": "33",
+            "text": "Did you know? By 2030, all plastic packaging in the EU should be designed to be recyclable or reusable."
+            
+        },
+        {
+            "ID": "34",
+            "text": "Fun fact! An aim of Malta's Single-Use Plastics Strategy 'Rethink Plastic' is to increase the quality and quantities of single-use plastic waste collected for recycling."
+            
+        },
+        {
+            "ID": "35",
+            "text": "Did you know? A Green Consumer is a customer who wants to buy things that have been produced in an environmentally friendly way with the intention to protect the environment."
+            
+        },
+		{
+            "ID": "36",
+            "text": "Did you know? The Loggerhead turtle is a protected marine species."
+            
+        },
+		{
+            "ID": "37",
+            "text": "Did you know? Sea urchins have a spiky outer shell."
+            
+        },
+		{
+            "ID": "38",
+            "text": "Did you know? The Bottlenose dolphin, Loggerhead turtle and Neptune seagrass are all found in Maltese waters."
+            
+        },
+		{
+            "ID": "39",
+            "text": "Interesting fact! The largest estimated Mediterranean Storm-Petrel breeding colony can be found in Filfla, Malta."
+            
+        }
+    ]
+}
